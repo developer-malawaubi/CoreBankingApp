@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "CoreBankingApp.Domain/1.0.0": {
+        "runtime": {
+          "CoreBankingApp.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CoreBankingApp.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

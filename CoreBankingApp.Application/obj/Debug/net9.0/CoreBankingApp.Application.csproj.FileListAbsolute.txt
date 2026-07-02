@@ -1,0 +1,15 @@
+C:\Users\uabdula\Desktop\TodoList 18dec\CoreBankingApp\CoreBankingApp.Application\obj\Debug\net9.0\CoreBankingApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uabdula\Desktop\TodoList 18dec\CoreBankingApp\CoreBankingApp.Application\obj\Debug\net9.0\CoreBankingApp.Application.AssemblyInfoInputs.cache
+C:\Users\uabdula\Desktop\TodoList 18dec\CoreBankingApp\CoreBankingApp.Application\obj\Debug\net9.0\CoreBankingApp.Application.AssemblyInfo.cs
+C:\Users\uabdula\Desktop\TodoList 18dec\CoreBankingApp\CoreBankingApp.Application\obj\Debug\net9.0\CoreBankingApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\uabdula\Desktop\TodoList 18dec\CoreBankingApp\CoreBankingApp.Application\bin\Debug\net9.0\CoreBankingApp.Application.deps.json
+C:\Users\uabdula\Desktop\TodoList 18dec\CoreBankingApp\CoreBankingApp.Application\bin\Debug\net9.0\CoreBankingApp.Application.dll
+C:\Users\uabdula\Desktop\TodoList 18dec\CoreBankingApp\CoreBankingApp.Application\bin\Debug\net9.0\CoreBankingApp.Application.pdb
+C:\Users\uabdula\Desktop\TodoList 18dec\CoreBankingApp\CoreBankingApp.Application\bin\Debug\net9.0\CoreBankingApp.Domain.dll
+C:\Users\uabdula\Desktop\TodoList 18dec\CoreBankingApp\CoreBankingApp.Application\bin\Debug\net9.0\CoreBankingApp.Domain.pdb
+C:\Users\uabdula\Desktop\TodoList 18dec\CoreBankingApp\CoreBankingApp.Application\obj\Debug\net9.0\CoreBankingApp.Application.csproj.AssemblyReference.cache
+C:\Users\uabdula\Desktop\TodoList 18dec\CoreBankingApp\CoreBankingApp.Application\obj\Debug\net9.0\CoreBank.270138F7.Up2Date
+C:\Users\uabdula\Desktop\TodoList 18dec\CoreBankingApp\CoreBankingApp.Application\obj\Debug\net9.0\CoreBankingApp.Application.dll
+C:\Users\uabdula\Desktop\TodoList 18dec\CoreBankingApp\CoreBankingApp.Application\obj\Debug\net9.0\refint\CoreBankingApp.Application.dll
+C:\Users\uabdula\Desktop\TodoList 18dec\CoreBankingApp\CoreBankingApp.Application\obj\Debug\net9.0\CoreBankingApp.Application.pdb
+C:\Users\uabdula\Desktop\TodoList 18dec\CoreBankingApp\CoreBankingApp.Application\obj\Debug\net9.0\ref\CoreBankingApp.Application.dll

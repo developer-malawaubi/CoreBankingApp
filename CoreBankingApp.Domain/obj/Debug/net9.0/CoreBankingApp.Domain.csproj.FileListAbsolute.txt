@@ -1,0 +1,11 @@
+C:\Users\uabdula\Desktop\TodoList 18dec\CoreBankingApp\CoreBankingApp.Domain\obj\Debug\net9.0\CoreBankingApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uabdula\Desktop\TodoList 18dec\CoreBankingApp\CoreBankingApp.Domain\obj\Debug\net9.0\CoreBankingApp.Domain.AssemblyInfoInputs.cache
+C:\Users\uabdula\Desktop\TodoList 18dec\CoreBankingApp\CoreBankingApp.Domain\obj\Debug\net9.0\CoreBankingApp.Domain.AssemblyInfo.cs
+C:\Users\uabdula\Desktop\TodoList 18dec\CoreBankingApp\CoreBankingApp.Domain\obj\Debug\net9.0\CoreBankingApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\uabdula\Desktop\TodoList 18dec\CoreBankingApp\CoreBankingApp.Domain\bin\Debug\net9.0\CoreBankingApp.Domain.deps.json
+C:\Users\uabdula\Desktop\TodoList 18dec\CoreBankingApp\CoreBankingApp.Domain\bin\Debug\net9.0\CoreBankingApp.Domain.dll
+C:\Users\uabdula\Desktop\TodoList 18dec\CoreBankingApp\CoreBankingApp.Domain\bin\Debug\net9.0\CoreBankingApp.Domain.pdb
+C:\Users\uabdula\Desktop\TodoList 18dec\CoreBankingApp\CoreBankingApp.Domain\obj\Debug\net9.0\CoreBankingApp.Domain.dll
+C:\Users\uabdula\Desktop\TodoList 18dec\CoreBankingApp\CoreBankingApp.Domain\obj\Debug\net9.0\refint\CoreBankingApp.Domain.dll
+C:\Users\uabdula\Desktop\TodoList 18dec\CoreBankingApp\CoreBankingApp.Domain\obj\Debug\net9.0\CoreBankingApp.Domain.pdb
+C:\Users\uabdula\Desktop\TodoList 18dec\CoreBankingApp\CoreBankingApp.Domain\obj\Debug\net9.0\ref\CoreBankingApp.Domain.dll

@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "CoreBankingApp.Application/1.0.0": {
+        "dependencies": {
+          "CoreBankingApp.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CoreBankingApp.Application.dll": {}
+        }
+      },
+      "CoreBankingApp.Domain/1.0.0": {
+        "runtime": {
+          "CoreBankingApp.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CoreBankingApp.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CoreBankingApp.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
