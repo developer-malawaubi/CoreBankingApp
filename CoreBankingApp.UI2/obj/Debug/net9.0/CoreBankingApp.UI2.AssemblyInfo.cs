@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CoreBankingApp.UI2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+62ca2da2c7a4d4b148cd7a9fbd4897dd6ce81763")]
 [assembly: System.Reflection.AssemblyProductAttribute("CoreBankingApp.UI2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CoreBankingApp.UI2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

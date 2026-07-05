@@ -1,0 +1,55 @@
+﻿@page "/add-new-customer"
+@using CoreBankingApp.Infrastructure.Repositories
+@inject ICustomerRepository CustomerRepository
+@inject NavigationManager NavigationManager
+
+<PageTitle>Add New Customer</PageTitle>
+
+<div class="row justify-content-center">
+    <div class="col-6">
+        <EditForm Enhance="true" FormName="AddCustomerForm" OnValidSubmit="AddCustomer" Model="Customer">
+        <h3>
+            Add New Customer
+        </h3>
+        <div class="mb-3">
+           <label for="name" class="form-label">
+               Customer Name
+           </label>
+           <InputText id="name" @bind-Value="Customer.Name" class="="form-control/>
+           </div>
+
+            <div class="mb-3">
+                <label for="email" class="form-label">
+                    Customer Email
+                </label>
+                <InputText id="email" @bind-Value="Customer.EmailAddress" class="=" form-control />
+            </div>
+
+            <div class="mb-3">
+                <label for="phone" class="form-label">
+                    Customer Phone
+                </label>
+                <InputText id="phone" @bind-Value="Customer.PhoneNumber" class="=" form-control />
+            </div>
+
+            <div class="mb-3">
+                <button class="btn btn-primary shadow-none">
+                    Save
+                </button>
+            </div>
+
+        </EditForm>
+    </div>
+</div>
+
+@code {
+    [SupplyParameterFromForm]
+    private Customer Customer { get; set; } = new ();   
+
+    private async Task AddCustomer()
+    {
+        await CustomerRepository.AddAsync(Customer);
+        NavigationManager.NavigateTo("/");
+    }
+
+}

@@ -18,10 +18,10 @@ namespace CoreBankingApp.Infrastructure.Repositories
         {
             _context = factory.CreateDbContext();
         }
-        public Task AddAsync(Customer Customer)
+        public async Task AddAsync(Customer Customer)
         {
-            throw new NotImplementedException();
+            _context.Customers.AddAsync(Customer);
+            await _context.SaveChangesAsync();
         }
     }
-
 }

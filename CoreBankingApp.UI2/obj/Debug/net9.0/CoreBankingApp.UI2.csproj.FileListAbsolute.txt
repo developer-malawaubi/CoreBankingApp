@@ -218,3 +218,4 @@ C:\Users\uabdula\Desktop\TodoList 18dec\CoreBankingApp\CoreBankingApp.UI2\obj\De
 C:\Users\uabdula\Desktop\TodoList 18dec\CoreBankingApp\CoreBankingApp.UI2\obj\Debug\net9.0\ref\CoreBankingApp.UI2.dll
 C:\Users\uabdula\Desktop\TodoList 18dec\CoreBankingApp\CoreBankingApp.UI2\bin\Debug\net9.0\System.ClientModel.dll
 C:\Users\uabdula\Desktop\TodoList 18dec\CoreBankingApp\CoreBankingApp.UI2\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\Users\uabdula\Desktop\TodoList 18dec\CoreBankingApp\CoreBankingApp.UI2\obj\Debug\net9.0\CoreBankingApp.UI2.sourcelink.json

@@ -13,3 +13,4 @@ C:\Users\uabdula\Desktop\TodoList 18dec\CoreBankingApp\CoreBankingApp.Applicatio
 C:\Users\uabdula\Desktop\TodoList 18dec\CoreBankingApp\CoreBankingApp.Application\obj\Debug\net9.0\refint\CoreBankingApp.Application.dll
 C:\Users\uabdula\Desktop\TodoList 18dec\CoreBankingApp\CoreBankingApp.Application\obj\Debug\net9.0\CoreBankingApp.Application.pdb
 C:\Users\uabdula\Desktop\TodoList 18dec\CoreBankingApp\CoreBankingApp.Application\obj\Debug\net9.0\ref\CoreBankingApp.Application.dll
+C:\Users\uabdula\Desktop\TodoList 18dec\CoreBankingApp\CoreBankingApp.Application\obj\Debug\net9.0\CoreBankingApp.Application.sourcelink.json

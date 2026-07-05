@@ -17,3 +17,4 @@ C:\Users\uabdula\Desktop\TodoList 18dec\CoreBankingApp\CoreBankingApp.Infrastruc
 C:\Users\uabdula\Desktop\TodoList 18dec\CoreBankingApp\CoreBankingApp.Infrastructure\obj\Debug\net9.0\CoreBankingApp.Infrastructure.pdb
 C:\Users\uabdula\Desktop\TodoList 18dec\CoreBankingApp\CoreBankingApp.Infrastructure\obj\Debug\net9.0\CoreBankingApp.Infrastructure.genruntimeconfig.cache
 C:\Users\uabdula\Desktop\TodoList 18dec\CoreBankingApp\CoreBankingApp.Infrastructure\obj\Debug\net9.0\ref\CoreBankingApp.Infrastructure.dll
+C:\Users\uabdula\Desktop\TodoList 18dec\CoreBankingApp\CoreBankingApp.Infrastructure\obj\Debug\net9.0\CoreBankingApp.Infrastructure.sourcelink.json

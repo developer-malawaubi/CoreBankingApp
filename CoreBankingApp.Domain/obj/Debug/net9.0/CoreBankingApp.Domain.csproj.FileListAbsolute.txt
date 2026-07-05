@@ -9,3 +9,4 @@ C:\Users\uabdula\Desktop\TodoList 18dec\CoreBankingApp\CoreBankingApp.Domain\obj
 C:\Users\uabdula\Desktop\TodoList 18dec\CoreBankingApp\CoreBankingApp.Domain\obj\Debug\net9.0\refint\CoreBankingApp.Domain.dll
 C:\Users\uabdula\Desktop\TodoList 18dec\CoreBankingApp\CoreBankingApp.Domain\obj\Debug\net9.0\CoreBankingApp.Domain.pdb
 C:\Users\uabdula\Desktop\TodoList 18dec\CoreBankingApp\CoreBankingApp.Domain\obj\Debug\net9.0\ref\CoreBankingApp.Domain.dll
+C:\Users\uabdula\Desktop\TodoList 18dec\CoreBankingApp\CoreBankingApp.Domain\obj\Debug\net9.0\CoreBankingApp.Domain.sourcelink.json
